@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}"
+
+.nav-item {
+  display: inline-block;
+  padding: 4px 12px;
+}
+.nav-bar {
+  text-align: center;
+  background: grey;
+}
